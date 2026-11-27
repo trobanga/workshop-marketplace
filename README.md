@@ -7,18 +7,17 @@ Seed marketplace for the agentic coding workshop. One plugin: `workshop-skills`.
 In Claude Code:
 
 ```
-/plugin install workshop-skills --marketplace <owner>/<repo>
+/plugin install workshop-skills --marketplace trobanga/workshop-marketplace
 ```
 
 This needs Claude Code 2.1.275 or later. The two-step form:
 
 ```
-/plugin marketplace add <owner>/<repo>
+/plugin marketplace add trobanga/workshop-marketplace
 /plugin install workshop-skills@workshop-marketplace
 ```
 
-`<owner>/<repo>` is open until the marketplace has a home (see `outline2.md`, Q20).
-For a local test, give the path of this directory in place of `<owner>/<repo>`.
+For a local test, give the path of this directory in place of `trobanga/workshop-marketplace`.
 
 ## Add your own plugin
 

@@ -10,7 +10,7 @@ Two skills from `trobanga-skills`, copied without their eval suites.
 ## Install
 
 ```
-/plugin install workshop-skills --marketplace <owner>/<repo>
+/plugin install workshop-skills --marketplace trobanga/workshop-marketplace
 ```
 
 ## Licence
