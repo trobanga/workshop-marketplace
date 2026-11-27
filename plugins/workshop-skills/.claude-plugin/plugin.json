@@ -1,0 +1,9 @@
+{
+  "name": "workshop-skills",
+  "version": "0.1.0",
+  "description": "Two skills for work on your own issue: draft-issue (rewrite an issue as a brief with a checkable end) and grilling (an interview that finds the open decisions)",
+  "author": {
+    "name": "Daniel Hahne"
+  },
+  "license": "Apache-2.0"
+}

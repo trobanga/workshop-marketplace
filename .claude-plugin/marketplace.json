@@ -1,0 +1,19 @@
+{
+  "name": "workshop-marketplace",
+  "description": "Seed marketplace for the agentic coding workshop: a small set of skills to install, try and extend",
+  "owner": {
+    "name": "Daniel Hahne"
+  },
+  "plugins": [
+    {
+      "name": "workshop-skills",
+      "source": "./plugins/workshop-skills",
+      "description": "Two skills for work on your own issue: draft-issue (rewrite an issue as a brief with a checkable end) and grilling (an interview that finds the open decisions)",
+      "version": "0.1.0",
+      "author": {
+        "name": "Daniel Hahne"
+      },
+      "license": "Apache-2.0"
+    }
+  ]
+}
